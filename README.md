@@ -23,4 +23,4 @@ This repo contains sources for JEE training given at Edacy Makersday
                     </driver>
 ```
 
-### J'ai une compagnie aujourd'hui qui aime tout ce qui va dans le ventre des humains
+### Ajout d'une ligne sur le fichier README
